@@ -1,0 +1,42 @@
+﻿<?xml version = "1.0" encoding = "UTF-8" ?>
+<Application xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:FuelFocus"
+             x:Class="FuelFocus.App">
+    <Application.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="Resources/Styles/Colors.xaml" />
+                <ResourceDictionary Source="Resources/Styles/Styles.xaml" />
+            </ResourceDictionary.MergedDictionaries>
+            <Color x:Key="LightBackground">#181d3d</Color>
+            <Color x:Key="DarkBackground">Black</Color>
+            <Style x:Key="ButtonOutline" TargetType="Button">
+                <Setter Property="Background" Value="{StaticResource LightBackground}"/>
+                <Setter Property="TextColor" Value="White"/>
+                <Setter Property="BorderColor" Value="#181d3d"/>
+                <Setter Property="BorderWidth" Value="2"/>
+                <Setter Property="HeightRequest" Value="40"/>
+                <Setter Property="CornerRadius" Value="20"/>
+            </Style>
+            <Style x:Key="CardView" TargetType="Frame">
+                <Setter Property="BorderColor" Value="White"/>
+                <Setter Property="HasShadow" Value="true"/>
+                <Setter Property="Padding" Value="10"/>
+                <Setter Property="HeightRequest" Value="105"/>
+                <Setter Property="WidthRequest" Value="105"/>
+                <Setter Property="CornerRadius" Value="10"/>
+                <Setter Property="Margin" Value="0,20,0,0"/>
+            </Style>
+            <Style x:Key="CardView2" TargetType="Frame">
+                <Setter Property="BorderColor" Value="White"/>
+                <Setter Property="HasShadow" Value="true"/>
+                <Setter Property="Padding" Value="0"/>
+                <Setter Property="HeightRequest" Value="100"/>
+                <Setter Property="WidthRequest" Value="100"/>
+                <Setter Property="CornerRadius" Value="5"/>
+                <Setter Property="Margin" Value="10,0,10,10"/>
+            </Style>
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>

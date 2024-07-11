@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="FuelFocus.View.OTPPage"
+             Shell.BackgroundColor="#181d3d"
+             Shell.ForegroundColor="White">
+    <Shell.BackButtonBehavior>
+        <BackButtonBehavior Command="{Binding GoBackCommand}"/>
+    </Shell.BackButtonBehavior>
+    <ScrollView>
+        <Grid BackgroundColor="#181d3d">
+            <VerticalStackLayout>
+                <Image Source="login.png" HorizontalOptions="Center" VerticalOptions="Start"
+           HeightRequest="350" WidthRequest="400" Aspect="AspectFit"/>
+                <StackLayout Margin="0,80,0,0">
+                    <Label Text="OTP VERIFICATION" TextColor="White" FontSize="30"
+               HorizontalOptions="Center" FontAttributes="Bold"/>
+                </StackLayout>
+                <StackLayout Padding="20">
+                    <Label x:Name="otpInstructionLabel" Text="Enter the OTP sent to {your Mobile Number}"
+               TextColor="Gray" HorizontalTextAlignment="Center" FontSize="15"/>
+                </StackLayout>
+                <StackLayout Orientation="Horizontal" Spacing="10" HorizontalOptions="Center">
+                    <Entry x:Name="Number1" Text="{Binding Number1}" TextColor="White" Keyboard="Numeric" 
+                   HeightRequest="50" PlaceholderColor="White" WidthRequest="50" 
+                   BackgroundColor="#212645" FontSize="20" HorizontalTextAlignment="Center"
+                   TextChanged="Number1_TextChanged"/>
+                    <Entry x:Name="Number2" Text="{Binding Number2}" TextColor="White" Keyboard="Numeric" 
+                   HeightRequest="50" PlaceholderColor="White" WidthRequest="50" 
+                   BackgroundColor="#212645" FontSize="20" HorizontalTextAlignment="Center"
+                   TextChanged="Number2_TextChanged"/>
+                    <Entry x:Name="Number3" Text="{Binding Number3}" TextColor="White" Keyboard="Numeric" 
+                   HeightRequest="50" PlaceholderColor="White" WidthRequest="50" 
+                   BackgroundColor="#212645" FontSize="20" HorizontalTextAlignment="Center"
+                   TextChanged="Number3_TextChanged"/>
+                    <Entry x:Name="Number4" Text="{Binding Number4}" TextColor="White" Keyboard="Numeric" 
+                   HeightRequest="50" PlaceholderColor="White" WidthRequest="50" 
+                   BackgroundColor="#212645" FontSize="20" HorizontalTextAlignment="Center"
+                   TextChanged="Number4_TextChanged"/>
+                    <Entry x:Name="Number5" Text="{Binding Number5}" TextColor="White" Keyboard="Numeric" 
+                   HeightRequest="50" PlaceholderColor="White" WidthRequest="50" 
+                   BackgroundColor="#212645" FontSize="20" HorizontalTextAlignment="Center"
+                   TextChanged="Number5_TextChanged"/>
+                    <Entry x:Name="Number6" Text="{Binding Number6}" TextColor="White" Keyboard="Numeric" 
+                   HeightRequest="50" PlaceholderColor="White" WidthRequest="50" 
+                   BackgroundColor="#212645" FontSize="20" HorizontalTextAlignment="Center"/>
+                </StackLayout>
+                <StackLayout Padding="0,20,0,0" Orientation="Horizontal" HorizontalOptions="Center" Spacing="5">
+                    <Label Text="Didn't receive the OTP ?"
+                       TextColor="Gray" HorizontalTextAlignment="Center" FontSize="15"/>
+                    <Label Text="RESEND CODE" TextColor="#f15151" HorizontalTextAlignment="Center" FontSize="15"
+                   FontAttributes="Bold">
+                        <Label.GestureRecognizers>
+                            <TapGestureRecognizer Tapped="Resend_Code_Tapped"/>
+                        </Label.GestureRecognizers>
+                    </Label>
+                </StackLayout>
+                <StackLayout Padding="20">
+                    <Button Text="CONFIRM" TextColor="White" BackgroundColor="#f15151"
+                HeightRequest="50" WidthRequest="300" CornerRadius="30" 
+                FontAttributes="Bold" FontSize="20" Clicked="Confirm_OTP"/>
+                </StackLayout>
+            </VerticalStackLayout>
+        </Grid>
+    </ScrollView>
+</ContentPage>

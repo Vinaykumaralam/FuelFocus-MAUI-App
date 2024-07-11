@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="FuelFocus.View.RecentTripsPage"
+             Title="Recent Trips Page"
+             xmlns:viewmodel="clr-namespace:FuelFocus.ViewModel"
+             xmlns:converters="clr-namespace:FuelFocus.Converters" 
+             BackgroundColor="White" 
+             Shell.TitleColor="White"
+             Shell.ForegroundColor="White"
+            Shell.BackgroundColor="#F15151">
+
+    <Shell.BackButtonBehavior>
+        <BackButtonBehavior Command="{Binding GoBackCommand}"/>
+    </Shell.BackButtonBehavior>
+    <ContentPage.BindingContext>
+        <viewmodel:TripsViewModel></viewmodel:TripsViewModel>
+    </ContentPage.BindingContext>
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <converters:InverseBoolConverter x:Key="InverseBoolConverter"/>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+    <ScrollView>
+        <VerticalStackLayout>
+            <ActivityIndicator IsRunning="{Binding IsLoading}" IsVisible="{Binding IsLoading}" Color="#f15151"/>
+            <StackLayout>
+                <Frame Margin="20,250,20,20" Background="White" BorderColor="White" IsVisible="{Binding IsBusy}">
+                    <Image Source="norecord.png" HorizontalOptions="Center" VerticalOptions="Center" HeightRequest="200" WidthRequest="350" />
+                </Frame>
+                
+                <Frame BackgroundColor="White" Margin="10,0,10,0" IsVisible="{Binding IsLoading, Converter={StaticResource InverseBoolConverter}}">
+                    <ListView x:Name="TripListView" ItemsSource="{Binding Trips}" HasUnevenRows="True" BackgroundColor="White">
+                        <ListView.ItemTemplate>
+                            <DataTemplate>
+                                <ViewCell>
+                                <Grid Padding="20" RowDefinitions="Auto,Auto,Auto,Auto,Auto" ColumnDefinitions="Auto,Auto,Auto,*,Auto">
+                                    <Image BackgroundColor="Black" Grid.Row="0" Grid.Column="0" Source="droppin" Aspect="AspectFill" HeightRequest="45" WidthRequest="45" HorizontalOptions="Center" VerticalOptions="Center">
+
+                                    </Image>
+                                    <VerticalStackLayout Grid.Row="0" Grid.Column="1" >
+                                        <VerticalStackLayout>
+                                            <HorizontalStackLayout>
+                                                <Label Text="From" Margin="10,0,0,0"/>
+
+                                            </HorizontalStackLayout>
+                                        </VerticalStackLayout>
+                                        <VerticalStackLayout>
+                                            <HorizontalStackLayout>
+                                                <Label Text="To" Margin="10,10,0,0"/>
+
+                                            </HorizontalStackLayout>
+                                        </VerticalStackLayout>
+                                    </VerticalStackLayout>
+                                    <VerticalStackLayout Grid.Row="0" Grid.Column="2">
+                                        <VerticalStackLayout>
+                                            <HorizontalStackLayout>
+                                                <Label Text=" : "/>
+
+                                            </HorizontalStackLayout>
+                                        </VerticalStackLayout>
+                                        <VerticalStackLayout>
+                                            <HorizontalStackLayout>
+                                                <Label Text=" : " Margin="0,10,0,0"/>
+
+                                            </HorizontalStackLayout>
+                                        </VerticalStackLayout>
+                                    </VerticalStackLayout>
+                                    <VerticalStackLayout Grid.Row="0" Grid.Column="3">
+                                        <VerticalStackLayout>
+                                            <HorizontalStackLayout>
+
+                                                <Label Text="{Binding Source}" x:Name="FromLocation" FontAttributes="Bold" Margin="10,0,20,0"/>
+
+                                            </HorizontalStackLayout>
+                                        </VerticalStackLayout>
+                                        <VerticalStackLayout>
+                                            <HorizontalStackLayout>
+
+                                                <Label  LineBreakMode="CharacterWrap" x:Name="ToLocation" FontAttributes="Bold" Text="{Binding Destination}" Margin="10,10,0,0"/>
+
+                                            </HorizontalStackLayout>
+                                        </VerticalStackLayout>
+                                    </VerticalStackLayout>
+
+                                    <Image Grid.Row="0" Grid.Column="4" Source="nexticon" Aspect="AspectFill" HeightRequest="27" HorizontalOptions="Center" VerticalOptions="Center" WidthRequest="27" Margin="0,0,-10,0">
+                                        <Image.GestureRecognizers>
+                                            <TapGestureRecognizer Command="{Binding Source={RelativeSource AncestorType={x:Type ContentPage}}, Path=BindingContext.NextCommand}" CommandParameter="{Binding .}"/>
+                                        </Image.GestureRecognizers>
+                                    </Image>
+                                </Grid>
+                                </ViewCell>
+                            </DataTemplate>
+                        </ListView.ItemTemplate>
+                    </ListView>
+                </Frame>
+            </StackLayout>
+            
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>

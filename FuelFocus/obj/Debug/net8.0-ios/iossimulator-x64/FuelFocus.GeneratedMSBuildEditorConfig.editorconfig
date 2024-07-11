@@ -1,0 +1,101 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net8.0-ios
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = FuelFocus
+build_property.ProjectDir = C:\Users\hp\Downloads\MAUI_FuelFocus_App\MAUI FuelFocus\FuelFocus\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+
+[C:/Users/hp/Downloads/MAUI_FuelFocus_App/MAUI FuelFocus/FuelFocus/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = FuelFocus.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Users/hp/Downloads/MAUI_FuelFocus_App/MAUI FuelFocus/FuelFocus/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = FuelFocus.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/Users/hp/Downloads/MAUI_FuelFocus_App/MAUI FuelFocus/FuelFocus/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = FuelFocus.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Users/hp/Downloads/MAUI_FuelFocus_App/MAUI FuelFocus/FuelFocus/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = FuelFocus.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[C:/Users/hp/Downloads/MAUI_FuelFocus_App/MAUI FuelFocus/FuelFocus/View/ForgotPassPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = FuelFocus.View.ForgotPassPage.xaml
+build_metadata.AdditionalFiles.TargetPath = View\ForgotPassPage.xaml
+build_metadata.AdditionalFiles.RelativePath = View\ForgotPassPage.xaml
+
+[C:/Users/hp/Downloads/MAUI_FuelFocus_App/MAUI FuelFocus/FuelFocus/View/HomePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = FuelFocus.View.HomePage.xaml
+build_metadata.AdditionalFiles.TargetPath = View\HomePage.xaml
+build_metadata.AdditionalFiles.RelativePath = View\HomePage.xaml
+
+[C:/Users/hp/Downloads/MAUI_FuelFocus_App/MAUI FuelFocus/FuelFocus/View/LoginPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = FuelFocus.View.LoginPage.xaml
+build_metadata.AdditionalFiles.TargetPath = View\LoginPage.xaml
+build_metadata.AdditionalFiles.RelativePath = View\LoginPage.xaml
+
+[C:/Users/hp/Downloads/MAUI_FuelFocus_App/MAUI FuelFocus/FuelFocus/View/NewPasswordPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = FuelFocus.View.NewPasswordPage.xaml
+build_metadata.AdditionalFiles.TargetPath = View\NewPasswordPage.xaml
+build_metadata.AdditionalFiles.RelativePath = View\NewPasswordPage.xaml
+
+[C:/Users/hp/Downloads/MAUI_FuelFocus_App/MAUI FuelFocus/FuelFocus/View/OTPPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = FuelFocus.View.OTPPage.xaml
+build_metadata.AdditionalFiles.TargetPath = View\OTPPage.xaml
+build_metadata.AdditionalFiles.RelativePath = View\OTPPage.xaml
+
+[C:/Users/hp/Downloads/MAUI_FuelFocus_App/MAUI FuelFocus/FuelFocus/View/ProfilePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = FuelFocus.View.ProfilePage.xaml
+build_metadata.AdditionalFiles.TargetPath = View\ProfilePage.xaml
+build_metadata.AdditionalFiles.RelativePath = View\ProfilePage.xaml
+
+[C:/Users/hp/Downloads/MAUI_FuelFocus_App/MAUI FuelFocus/FuelFocus/View/RecentTripsPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = FuelFocus.View.RecentTripsPage.xaml
+build_metadata.AdditionalFiles.TargetPath = View\RecentTripsPage.xaml
+build_metadata.AdditionalFiles.RelativePath = View\RecentTripsPage.xaml
+
+[C:/Users/hp/Downloads/MAUI_FuelFocus_App/MAUI FuelFocus/FuelFocus/View/RoutePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = FuelFocus.View.RoutePage.xaml
+build_metadata.AdditionalFiles.TargetPath = View\RoutePage.xaml
+build_metadata.AdditionalFiles.RelativePath = View\RoutePage.xaml
+
+[C:/Users/hp/Downloads/MAUI_FuelFocus_App/MAUI FuelFocus/FuelFocus/View/SignupPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = FuelFocus.View.SignupPage.xaml
+build_metadata.AdditionalFiles.TargetPath = View\SignupPage.xaml
+build_metadata.AdditionalFiles.RelativePath = View\SignupPage.xaml
+
+[C:/Users/hp/Downloads/MAUI_FuelFocus_App/MAUI FuelFocus/FuelFocus/View/TripDetailPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = FuelFocus.View.TripDetailPage.xaml
+build_metadata.AdditionalFiles.TargetPath = View\TripDetailPage.xaml
+build_metadata.AdditionalFiles.RelativePath = View\TripDetailPage.xaml

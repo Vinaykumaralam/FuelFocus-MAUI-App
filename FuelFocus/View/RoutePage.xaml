@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:viewmodels="clr-namespace:FuelFocus.ViewModel"
+             x:Class="FuelFocus.View.RoutePage"
+             Title="Start Trip"
+             Shell.TitleColor="White"
+             Shell.BackgroundColor="#f15151"
+             BackgroundColor="#FAFAFA"
+             Shell.ForegroundColor="White"
+             NavigationPage.HasBackButton="True"
+             Shell.BackButtonBehavior="{Binding GoBackCommand}"
+             >
+    
+    <ContentPage.BindingContext>
+        <viewmodels:RouteViewModel />
+    </ContentPage.BindingContext>
+
+    <ScrollView>
+        <StackLayout Padding="10,10,0,0" Spacing="20">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto" />
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="Auto" />
+                </Grid.ColumnDefinitions>
+
+                <Image Source="location.png" HeightRequest="120" WidthRequest="50" Grid.RowSpan="2" Grid.Column="0" VerticalOptions="Center" HorizontalOptions="Start" Margin="10,0" />
+
+                <Border BackgroundColor="White" Margin="0,0,10,5" StrokeShape="RoundRectangle 20,20,20,20" Grid.Row="0" Grid.Column="1">
+                    <Border.Shadow>
+                        <Shadow Brush="Black" Opacity="0.7" Offset="0,0" Radius="50" />
+                    </Border.Shadow>
+                    <VerticalStackLayout>
+                        <Label Text="Source" TextColor="Black" FontAttributes="Bold" Padding="1,5,0,0" HorizontalOptions="Center" />
+                        <Entry x:Name="SourceEntry" 
+                               Text="{Binding SourceLocation}" 
+                               FontAttributes="Bold" 
+                               TextColor="Black" 
+                               HorizontalOptions="Center"
+                               HorizontalTextAlignment="Center"
+                               Placeholder="Enter Source location" 
+                               Margin="10,0" 
+                               WidthRequest="250" 
+                               Focused="OnEntryFocused" 
+                               Unfocused="OnEntryUnfocused"/>
+                        <Picker x:Name="SourcePicker" 
+                                IsVisible="False" 
+                                Title="choose your current location"
+                                SelectedIndexChanged="OnSourcePickerSelectedIndexChanged">
+                            <Picker.ItemsSource>
+                                <x:Array Type="{x:Type x:String}">
+                                    <x:String>Current Location</x:String>
+                                </x:Array>
+                            </Picker.ItemsSource>
+                        </Picker>
+                    </VerticalStackLayout>
+                </Border>
+
+                <Border BackgroundColor="White" Margin="0,5,10,0" StrokeShape="RoundRectangle 20,20,20,20" Grid.Row="1" Grid.Column="1">
+                    <Border.Shadow>
+                        <Shadow Brush="Black" Opacity="0.7" Offset="0,0" Radius="50" />
+                    </Border.Shadow>
+                    <VerticalStackLayout>
+                        <Label Text="Destination" TextColor="Black" FontAttributes="Bold" Padding="1,5,0,0" HorizontalOptions="Center" />
+                        <Entry x:Name="DestinationEntry"
+                            Text="{Binding DestinationLocation}" 
+                               FontAttributes="Bold" 
+                               TextColor="Black" 
+                                HorizontalOptions="Center"
+                                HorizontalTextAlignment="Center"
+                               Placeholder="Enter Destination location" 
+                               Margin="10,0" 
+                               WidthRequest="250"/>
+                    </VerticalStackLayout>
+                </Border>
+
+                <ImageButton Source="swap_icon.png" 
+                             Command="{Binding SwapLocationsCommand}" 
+                             WidthRequest="30" 
+                             HeightRequest="30" 
+                             BackgroundColor="Transparent" 
+                             HorizontalOptions="Center" 
+                             VerticalOptions="Center" 
+                             Margin="10,0" 
+                             Grid.RowSpan="2" 
+                             Grid.Column="2" />
+            </Grid>
+
+            <Frame HeightRequest="450" Margin="-15,0,-5,-10">
+                <WebView x:Name="MapWebView" Source="MapLeaf.html" VerticalOptions="Center" HorizontalOptions="Center" Navigated="MapWebView_Navigated" />
+            </Frame>
+
+            <Button Text="Get Directions" Command="{Binding GetDirectionsCommand}" BackgroundColor="#FF6347" TextColor="White" FontSize="16" CornerRadius="5" Padding="10,5" WidthRequest="200" HorizontalOptions="Center" />
+
+            <Button Text="Find Fuel Stations" Command="{Binding FuelStationsCommand}" BackgroundColor="#FF6347" TextColor="White" FontSize="16" CornerRadius="5" Padding="10, 5" WidthRequest="200" HorizontalOptions="Center" Margin="0,-10,0,50" />
+
+            <Button Text="Start Trip" Command="{Binding StartTripCommand}" BackgroundColor="#FF6347" TextColor="White" FontSize="16" CornerRadius="5" Padding="10, 5" WidthRequest="200" HorizontalOptions="Center" Margin="0,-60,0,50"/>
+        </StackLayout>
+    </ScrollView>
+</ContentPage>

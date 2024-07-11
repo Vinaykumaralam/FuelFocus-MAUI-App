@@ -1,0 +1,479 @@
+C:\MAUI\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\FuelFocus.exe
+C:\MAUI\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+C:\MAUI\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\FuelFocus.deps.json
+C:\MAUI\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\FuelFocus.runtimeconfig.json
+C:\MAUI\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\FuelFocus.dll
+C:\MAUI\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\FuelFocus.pdb
+C:\MAUI\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri
+C:\MAUI\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml
+C:\MAUI\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ClosedXML.dll
+C:\MAUI\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\CommunityToolkit.Maui.dll
+C:\MAUI\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\CommunityToolkit.Maui.Core.dll
+C:\MAUI\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\CommunityToolkit.Mvvm.dll
+C:\MAUI\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\DocumentFormat.OpenXml.dll
+C:\MAUI\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ExcelNumberFormat.dll
+C:\MAUI\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Irony.dll
+C:\MAUI\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.dll
+C:\MAUI\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\MAUI\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.Binder.dll
+C:\MAUI\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyInjection.dll
+C:\MAUI\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\MAUI\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Diagnostics.dll
+C:\MAUI\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\MAUI\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Http.dll
+C:\MAUI\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.dll
+C:\MAUI\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.Abstractions.dll
+C:\MAUI\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.Debug.dll
+C:\MAUI\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Options.dll
+C:\MAUI\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\MAUI\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Primitives.dll
+C:\MAUI\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.Interop.dll
+C:\MAUI\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.IdentityModel.Abstractions.dll
+C:\MAUI\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\MAUI\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.IdentityModel.Logging.dll
+C:\MAUI\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.IdentityModel.Tokens.dll
+C:\MAUI\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.Compatibility.dll
+C:\MAUI\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.dll
+C:\MAUI\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.Xaml.dll
+C:\MAUI\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.dll
+C:\MAUI\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Essentials.dll
+C:\MAUI\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Graphics.dll
+C:\MAUI\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll
+C:\MAUI\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.InteractiveExperiences.Projection.dll
+C:\MAUI\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.WinUI.dll
+C:\MAUI\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppLifecycle.Projection.dll
+C:\MAUI\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppNotifications.Builder.Projection.dll
+C:\MAUI\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppNotifications.Projection.dll
+C:\MAUI\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.DynamicDependency.Projection.dll
+C:\MAUI\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.Resources.Projection.dll
+C:\MAUI\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.WindowsAppRuntime.Projection.dll
+C:\MAUI\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.PushNotifications.Projection.dll
+C:\MAUI\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Security.AccessControl.Projection.dll
+C:\MAUI\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Power.Projection.dll
+C:\MAUI\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Projection.dll
+C:\MAUI\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Widgets.Projection.dll
+C:\MAUI\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll
+C:\MAUI\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Release.Net.dll
+C:\MAUI\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Newtonsoft.Json.dll
+C:\MAUI\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\SixLabors.Fonts.dll
+C:\MAUI\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\SkiaSharp.dll
+C:\MAUI\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Syncfusion.Licensing.dll
+C:\MAUI\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Syncfusion.Maui.Core.dll
+C:\MAUI\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Syncfusion.Maui.Gauges.dll
+C:\MAUI\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\System.IdentityModel.Tokens.Jwt.dll
+C:\MAUI\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\System.IO.Packaging.dll
+C:\MAUI\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\System.Speech.dll
+C:\MAUI\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\The49.Maui.ContextMenu.dll
+C:\MAUI\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Twilio.dll
+C:\MAUI\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\XLParser.dll
+C:\MAUI\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ar\Microsoft.Maui.Controls.resources.dll
+C:\MAUI\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ca\Microsoft.Maui.Controls.resources.dll
+C:\MAUI\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\cs\Microsoft.Maui.Controls.resources.dll
+C:\MAUI\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\da\Microsoft.Maui.Controls.resources.dll
+C:\MAUI\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\de\Microsoft.Maui.Controls.resources.dll
+C:\MAUI\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\el\Microsoft.Maui.Controls.resources.dll
+C:\MAUI\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\es\Microsoft.Maui.Controls.resources.dll
+C:\MAUI\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\fi\Microsoft.Maui.Controls.resources.dll
+C:\MAUI\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\fr\Microsoft.Maui.Controls.resources.dll
+C:\MAUI\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\he\Microsoft.Maui.Controls.resources.dll
+C:\MAUI\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\hi\Microsoft.Maui.Controls.resources.dll
+C:\MAUI\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\hr\Microsoft.Maui.Controls.resources.dll
+C:\MAUI\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\hu\Microsoft.Maui.Controls.resources.dll
+C:\MAUI\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\id\Microsoft.Maui.Controls.resources.dll
+C:\MAUI\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\it\Microsoft.Maui.Controls.resources.dll
+C:\MAUI\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ja\Microsoft.Maui.Controls.resources.dll
+C:\MAUI\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ko\Microsoft.Maui.Controls.resources.dll
+C:\MAUI\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ms\Microsoft.Maui.Controls.resources.dll
+C:\MAUI\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\nb\Microsoft.Maui.Controls.resources.dll
+C:\MAUI\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\nl\Microsoft.Maui.Controls.resources.dll
+C:\MAUI\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\pl\Microsoft.Maui.Controls.resources.dll
+C:\MAUI\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\pt-BR\Microsoft.Maui.Controls.resources.dll
+C:\MAUI\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\pt\Microsoft.Maui.Controls.resources.dll
+C:\MAUI\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ro\Microsoft.Maui.Controls.resources.dll
+C:\MAUI\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ru\Microsoft.Maui.Controls.resources.dll
+C:\MAUI\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\sk\Microsoft.Maui.Controls.resources.dll
+C:\MAUI\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\sv\Microsoft.Maui.Controls.resources.dll
+C:\MAUI\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\th\Microsoft.Maui.Controls.resources.dll
+C:\MAUI\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\tr\Microsoft.Maui.Controls.resources.dll
+C:\MAUI\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\uk\Microsoft.Maui.Controls.resources.dll
+C:\MAUI\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\vi\Microsoft.Maui.Controls.resources.dll
+C:\MAUI\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\zh-HK\Microsoft.Maui.Controls.resources.dll
+C:\MAUI\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\zh-Hans\Microsoft.Maui.Controls.resources.dll
+C:\MAUI\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\zh-Hant\Microsoft.Maui.Controls.resources.dll
+C:\MAUI\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.dll
+C:\MAUI\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.dll
+C:\MAUI\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\libSkiaSharp.dll
+C:\MAUI\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.SDK.NET.dll
+C:\MAUI\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\WinRT.Runtime.dll
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\FuelFocus.csproj.AssemblyReference.cache
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauiimage.inputs
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauifont.inputs
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauisplash.inputs
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauimanifest.stamp
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.i.cs
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.cs
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlTypeInfo.g.cs
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xaml
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlSaveStateFile.xml
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\FuelFocus.GeneratedMSBuildEditorConfig.editorconfig
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauisplash.stamp
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauifont.stamp
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\trebuc.ttf
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\Trebuchet-MS-Italic.ttf
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\visible.scale-100.png
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\droppin.scale-100.png
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\downloadimage.scale-100.jpg
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\downarrow.scale-100.png
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\camera_icon.scale-100.png
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\location.scale-100.png
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\flyouticon.scale-100.png
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\book.scale-100.png
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\swap_icon.scale-100.png
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\fueltank.scale-100.png
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\fuel.scale-100.png
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\userprofile.scale-100.png
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\flyout_user.scale-100.png
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\home.scale-100.png
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\logout.scale-100.png
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\placeholder.scale-100.png
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\hide.scale-100.png
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\padlock.scale-100.png
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\sedan.scale-100.png
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\flyout_book.scale-100.png
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\sedanblack.scale-100.png
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\login.scale-100.png
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\menu.scale-100.png
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\smartphone.scale-100.png
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\username.scale-100.png
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\user.scale-100.png
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\nexticon.scale-400.png
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\nexticon.scale-200.png
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\nexticon.scale-150.png
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\nexticon.scale-125.png
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\nexticon.scale-100.png
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauiimage.stamp
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\FuelFocus.AssemblyInfoInputs.cache
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\FuelFocus.AssemblyInfo.cs
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\FuelFocus.csproj.CoreCompileInputs.cache
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlC.stamp
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\FuelFocus.csproj.Up2Date
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\FuelFocus.dll
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\refint\FuelFocus.dll
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\FuelFocus.pdb
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\FuelFocus.genruntimeconfig.cache
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ref\FuelFocus.dll
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\priconfig.xml
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\priconfig.xml.intermediate
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\unfiltered.layout.resfiles
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\unfiltered.layout.resfiles.intermediate
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\filtered.layout.resfiles
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\filtered.layout.resfiles.intermediate
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\excluded.layout.resfiles
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\excluded.layout.resfiles.intermediate
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.resfiles
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.resfiles.intermediate
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\pri.resfiles
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\pri.resfiles.intermediate
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\qualifiers.txt
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
+C:\MAUI\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\FuelFocus.exe
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\FuelFocus.deps.json
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\FuelFocus.runtimeconfig.json
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\FuelFocus.dll
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\FuelFocus.pdb
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ClosedXML.dll
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\CommunityToolkit.Maui.dll
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\CommunityToolkit.Maui.Core.dll
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\CommunityToolkit.Mvvm.dll
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\DocumentFormat.OpenXml.dll
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ExcelNumberFormat.dll
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Irony.dll
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.dll
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Diagnostics.dll
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Http.dll
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.dll
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Options.dll
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Primitives.dll
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.Interop.dll
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.Compatibility.dll
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.dll
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.Xaml.dll
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.dll
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Essentials.dll
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Graphics.dll
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.InteractiveExperiences.Projection.dll
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.WinUI.dll
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppLifecycle.Projection.dll
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppNotifications.Builder.Projection.dll
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppNotifications.Projection.dll
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.DynamicDependency.Projection.dll
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.Resources.Projection.dll
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.WindowsAppRuntime.Projection.dll
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Management.Deployment.Projection.dll
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.PushNotifications.Projection.dll
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Security.AccessControl.Projection.dll
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Power.Projection.dll
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Projection.dll
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Widgets.Projection.dll
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Newtonsoft.Json.dll
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\SixLabors.Fonts.dll
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\SkiaSharp.dll
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Syncfusion.Licensing.dll
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Syncfusion.Maui.Core.dll
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Syncfusion.Maui.Gauges.dll
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\System.IO.Packaging.dll
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\System.Speech.dll
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\The49.Maui.ContextMenu.dll
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Twilio.dll
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\XLParser.dll
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ar\Microsoft.Maui.Controls.resources.dll
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ca\Microsoft.Maui.Controls.resources.dll
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\cs\Microsoft.Maui.Controls.resources.dll
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\da\Microsoft.Maui.Controls.resources.dll
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\de\Microsoft.Maui.Controls.resources.dll
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\el\Microsoft.Maui.Controls.resources.dll
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\es\Microsoft.Maui.Controls.resources.dll
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\fi\Microsoft.Maui.Controls.resources.dll
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\fr\Microsoft.Maui.Controls.resources.dll
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\he\Microsoft.Maui.Controls.resources.dll
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\hi\Microsoft.Maui.Controls.resources.dll
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\hr\Microsoft.Maui.Controls.resources.dll
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\hu\Microsoft.Maui.Controls.resources.dll
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\id\Microsoft.Maui.Controls.resources.dll
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\it\Microsoft.Maui.Controls.resources.dll
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ja\Microsoft.Maui.Controls.resources.dll
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ko\Microsoft.Maui.Controls.resources.dll
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ms\Microsoft.Maui.Controls.resources.dll
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\nb\Microsoft.Maui.Controls.resources.dll
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\nl\Microsoft.Maui.Controls.resources.dll
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\pl\Microsoft.Maui.Controls.resources.dll
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\pt-BR\Microsoft.Maui.Controls.resources.dll
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\pt\Microsoft.Maui.Controls.resources.dll
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ro\Microsoft.Maui.Controls.resources.dll
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ru\Microsoft.Maui.Controls.resources.dll
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\sk\Microsoft.Maui.Controls.resources.dll
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\sv\Microsoft.Maui.Controls.resources.dll
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\th\Microsoft.Maui.Controls.resources.dll
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\tr\Microsoft.Maui.Controls.resources.dll
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\uk\Microsoft.Maui.Controls.resources.dll
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\vi\Microsoft.Maui.Controls.resources.dll
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\zh-HK\Microsoft.Maui.Controls.resources.dll
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\zh-Hans\Microsoft.Maui.Controls.resources.dll
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\zh-Hant\Microsoft.Maui.Controls.resources.dll
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.dll
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.dll
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\libSkiaSharp.dll
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.SDK.NET.dll
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\WinRT.Runtime.dll
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\FuelFocus.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauiimage.inputs
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauifont.inputs
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauisplash.inputs
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauimanifest.stamp
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.i.cs
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.cs
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlTypeInfo.g.cs
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xaml
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlSaveStateFile.xml
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\FuelFocus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauisplash.stamp
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauifont.stamp
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\trebuc.ttf
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\Trebuchet-MS-Italic.ttf
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\book.scale-100.png
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\camera_icon.scale-100.png
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\downarrow.scale-100.png
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\downloadimage.scale-100.jpg
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\droppin.scale-100.png
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\flyouticon.scale-100.png
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\flyout_book.scale-100.png
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\flyout_user.scale-100.png
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\fuel.scale-100.png
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\fueltank.scale-100.png
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\hide.scale-100.png
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\home.scale-100.png
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\location.scale-100.png
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\login.scale-100.png
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\logout.scale-100.png
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\menu.scale-100.png
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\nexticon.scale-100.png
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\nexticon.scale-125.png
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\nexticon.scale-150.png
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\nexticon.scale-200.png
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\nexticon.scale-400.png
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\padlock.scale-100.png
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\placeholder.scale-100.png
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\sedan.scale-100.png
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\sedanblack.scale-100.png
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\smartphone.scale-100.png
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\swap_icon.scale-100.png
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\user.scale-100.png
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\username.scale-100.png
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\userprofile.scale-100.png
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\visible.scale-100.png
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauiimage.stamp
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauiimage.outputs
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\FuelFocus.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\FuelFocus.AssemblyInfo.cs
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\FuelFocus.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlC.stamp
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\FuelFocus.csproj.Up2Date
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\FuelFocus.dll
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\refint\FuelFocus.dll
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\FuelFocus.pdb
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\FuelFocus.genruntimeconfig.cache
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ref\FuelFocus.dll
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\priconfig.xml
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\priconfig.xml.intermediate
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\unfiltered.layout.resfiles
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\unfiltered.layout.resfiles.intermediate
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\filtered.layout.resfiles
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\filtered.layout.resfiles.intermediate
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\excluded.layout.resfiles
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\excluded.layout.resfiles.intermediate
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.resfiles
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.resfiles.intermediate
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\pri.resfiles
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\pri.resfiles.intermediate
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\qualifiers.txt
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Admin\Documents\MAUI FuelFocus\FuelFocus\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
