@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Shell
+    x:Class="FuelFocus.AppShell"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:view="clr-namespace:FuelFocus.View"
+    FlyoutBehavior="Flyout"
+    FlyoutBackgroundColor="#f15151"
+    Shell.ForegroundColor="Black"
+    Shell.TabBarIsVisible="False">
+
+    <Shell.FlyoutHeader>
+        <Image Source="user.png" HorizontalOptions="StartAndExpand"
+               Margin="20"/>
+    </Shell.FlyoutHeader>
+    
+    <Shell.ItemTemplate>
+        <DataTemplate>
+            <Grid Padding="10">
+                <HorizontalStackLayout Spacing="20" Margin="0,0,0,20">
+                    <Image Source="{Binding Icon}" WidthRequest="24" HeightRequest="24" VerticalOptions="Start" 
+                           HorizontalOptions="Start"/>
+                    <Label Text="{Binding Title}" 
+                           TextColor="White" 
+                           VerticalOptions="Center" HorizontalOptions="Center"
+                           FontSize="Medium"/>
+                </HorizontalStackLayout>
+
+            </Grid>
+        </DataTemplate>
+    </Shell.ItemTemplate>
+    
+    
+    <FlyoutItem>
+        <ShellContent ContentTemplate="{DataTemplate view:LoginPage}"
+                        Route="LoginPage" Shell.NavBarIsVisible="False"/>
+    </FlyoutItem>
+    
+    <FlyoutItem Title="Home" Icon="home.png">
+        <ShellContent ContentTemplate="{DataTemplate view:HomePage}"
+                      Route="HomePage"/>
+    </FlyoutItem>
+
+    <FlyoutItem Title="Profile" Icon="flyout_user.png">
+        <ShellContent ContentTemplate="{DataTemplate view:ProfilePage}"
+                      Route="ProfilePage"/>
+    </FlyoutItem>
+    <FlyoutItem Title="Start Trip" Icon="sedanblack.png">
+        <ShellContent ContentTemplate="{DataTemplate view:RoutePage}"
+                  Route="RoutePage"/>
+    </FlyoutItem>
+    
+    <ShellContent ContentTemplate="{DataTemplate view:SignupPage}" Route="SignupPage"/>
+    <ShellContent ContentTemplate="{DataTemplate view:RecentTripsPage}" Route="RecentTripsPage"/>
+    <ShellContent ContentTemplate="{DataTemplate view:TripDetailPage}" Route="TripDetailPage"/>
+    
+    <Shell.FlyoutFooter>
+        <Frame BackgroundColor="#f15151" BorderColor="#f15151">
+            <HorizontalStackLayout HorizontalOptions="Center" VerticalOptions="Center"
+                                   Spacing="20">
+                <Image Source="logout.png" HorizontalOptions="Center"
+                    VerticalOptions="Center" HeightRequest="30" WidthRequest="30"/>
+                <Label Text="Log Out" TextColor="White" HorizontalOptions="Center"
+                       VerticalOptions="Center" FontSize="25" FontAttributes="Bold"/>
+            </HorizontalStackLayout>
+            <Frame.GestureRecognizers>
+                <TapGestureRecognizer Tapped="TapGestureRecognizer_Tapped"/>
+            </Frame.GestureRecognizers>
+        </Frame>
+    </Shell.FlyoutFooter>
+</Shell>

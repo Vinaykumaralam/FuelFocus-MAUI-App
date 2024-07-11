@@ -1,0 +1,552 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\Downloads\\MAUI_FuelFocus_App\\MAUI FuelFocus\\FuelFocus\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E1CD386-D635-45A5-A608-43934AA88275}|FuelFocus.csproj|c:\\users\\hp\\downloads\\maui_fuelfocus_app\\maui fuelfocus\\fuelfocus\\viewmodel\\routeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E1CD386-D635-45A5-A608-43934AA88275}|FuelFocus.csproj|solutionrelative:viewmodel\\routeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72BFA992-1C71-4246-B0E0-D07030EE022F}|..\\FuelFocusAPI\\FuelFocusAPI.csproj|c:\\users\\hp\\downloads\\maui_fuelfocus_app\\maui fuelfocus\\fuelfocusapi\\controllers\\tripcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E1CD386-D635-45A5-A608-43934AA88275}|FuelFocus.csproj|c:\\users\\hp\\downloads\\maui_fuelfocus_app\\maui fuelfocus\\fuelfocus\\viewmodel\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E1CD386-D635-45A5-A608-43934AA88275}|FuelFocus.csproj|solutionrelative:viewmodel\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E1CD386-D635-45A5-A608-43934AA88275}|FuelFocus.csproj|c:\\users\\hp\\downloads\\maui_fuelfocus_app\\maui fuelfocus\\fuelfocus\\view\\homepage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{6E1CD386-D635-45A5-A608-43934AA88275}|FuelFocus.csproj|solutionrelative:view\\homepage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E1CD386-D635-45A5-A608-43934AA88275}|FuelFocus.csproj|c:\\users\\hp\\downloads\\maui_fuelfocus_app\\maui fuelfocus\\fuelfocus\\view\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6E1CD386-D635-45A5-A608-43934AA88275}|FuelFocus.csproj|solutionrelative:view\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E1CD386-D635-45A5-A608-43934AA88275}|FuelFocus.csproj|c:\\users\\hp\\downloads\\maui_fuelfocus_app\\maui fuelfocus\\fuelfocus\\view\\tripdetailpage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{6E1CD386-D635-45A5-A608-43934AA88275}|FuelFocus.csproj|solutionrelative:view\\tripdetailpage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72BFA992-1C71-4246-B0E0-D07030EE022F}|..\\FuelFocusAPI\\FuelFocusAPI.csproj|c:\\users\\hp\\downloads\\maui_fuelfocus_app\\maui fuelfocus\\fuelfocusapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E1CD386-D635-45A5-A608-43934AA88275}|FuelFocus.csproj|c:\\users\\hp\\downloads\\maui_fuelfocus_app\\maui fuelfocus\\fuelfocus\\viewmodel\\tripsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E1CD386-D635-45A5-A608-43934AA88275}|FuelFocus.csproj|solutionrelative:viewmodel\\tripsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E1CD386-D635-45A5-A608-43934AA88275}|FuelFocus.csproj|c:\\users\\hp\\downloads\\maui_fuelfocus_app\\maui fuelfocus\\fuelfocus\\view\\recenttripspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6E1CD386-D635-45A5-A608-43934AA88275}|FuelFocus.csproj|solutionrelative:view\\recenttripspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E1CD386-D635-45A5-A608-43934AA88275}|FuelFocus.csproj|c:\\users\\hp\\downloads\\maui_fuelfocus_app\\maui fuelfocus\\fuelfocus\\view\\tripdetailpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6E1CD386-D635-45A5-A608-43934AA88275}|FuelFocus.csproj|solutionrelative:view\\tripdetailpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E1CD386-D635-45A5-A608-43934AA88275}|FuelFocus.csproj|c:\\users\\hp\\downloads\\maui_fuelfocus_app\\maui fuelfocus\\fuelfocus\\view\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E1CD386-D635-45A5-A608-43934AA88275}|FuelFocus.csproj|solutionrelative:view\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E1CD386-D635-45A5-A608-43934AA88275}|FuelFocus.csproj|c:\\users\\hp\\downloads\\maui_fuelfocus_app\\maui fuelfocus\\fuelfocus\\view\\routepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E1CD386-D635-45A5-A608-43934AA88275}|FuelFocus.csproj|solutionrelative:view\\routepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E1CD386-D635-45A5-A608-43934AA88275}|FuelFocus.csproj|c:\\users\\hp\\downloads\\maui_fuelfocus_app\\maui fuelfocus\\fuelfocus\\view\\routepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6E1CD386-D635-45A5-A608-43934AA88275}|FuelFocus.csproj|solutionrelative:view\\routepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E1CD386-D635-45A5-A608-43934AA88275}|FuelFocus.csproj|c:\\users\\hp\\downloads\\maui_fuelfocus_app\\maui fuelfocus\\fuelfocus\\view\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6E1CD386-D635-45A5-A608-43934AA88275}|FuelFocus.csproj|solutionrelative:view\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E1CD386-D635-45A5-A608-43934AA88275}|FuelFocus.csproj|c:\\users\\hp\\downloads\\maui_fuelfocus_app\\maui fuelfocus\\fuelfocus\\view\\signuppage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6E1CD386-D635-45A5-A608-43934AA88275}|FuelFocus.csproj|solutionrelative:view\\signuppage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 483,
+          "SelectedChildIndex": 71,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\MAUI_FuelFocus_App\\MAUI FuelFocus\\FuelFocus\\View\\LoginPage.xaml.cs",
+              "RelativeDocumentMoniker": "View\\LoginPage.xaml.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\MAUI_FuelFocus_App\\MAUI FuelFocus\\FuelFocus\\View\\LoginPage.xaml.cs",
+              "RelativeToolTip": "View\\LoginPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T08:29:59.026Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TripController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\MAUI_FuelFocus_App\\MAUI FuelFocus\\FuelFocusAPI\\Controllers\\TripController.cs",
+              "RelativeDocumentMoniker": "..\\FuelFocusAPI\\Controllers\\TripController.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\MAUI_FuelFocus_App\\MAUI FuelFocus\\FuelFocusAPI\\Controllers\\TripController.cs",
+              "RelativeToolTip": "..\\FuelFocusAPI\\Controllers\\TripController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T04:55:48.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\MAUI_FuelFocus_App\\MAUI FuelFocus\\FuelFocusAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\FuelFocusAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\MAUI_FuelFocus_App\\MAUI FuelFocus\\FuelFocusAPI\\appsettings.json",
+              "RelativeToolTip": "..\\FuelFocusAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-11T04:51:53.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:145:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:146:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:147:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:148:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:149:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3fd5e0cc-709a-4f8c-94c3-7f0f8dff5bb2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{5a4e9529-b6a0-46b5-be4f-0f0b239bc0eb}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{33c88fe3-43b3-374e-9aac-c4679036dce0}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:17:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:20:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:23:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:26:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:29:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:32:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:36:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:39:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:42:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:45:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:48:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:16:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:19:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:22:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:21:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:24:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:27:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:30:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:33:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:9:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:15:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:18:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TripDetailPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\MAUI_FuelFocus_App\\MAUI FuelFocus\\FuelFocus\\View\\TripDetailPage.xaml.cs",
+              "RelativeDocumentMoniker": "View\\TripDetailPage.xaml.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\MAUI_FuelFocus_App\\MAUI FuelFocus\\FuelFocus\\View\\TripDetailPage.xaml.cs",
+              "RelativeToolTip": "View\\TripDetailPage.xaml.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwCYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T09:31:08.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RouteViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\MAUI_FuelFocus_App\\MAUI FuelFocus\\FuelFocus\\ViewModel\\RouteViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\RouteViewModel.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\MAUI_FuelFocus_App\\MAUI FuelFocus\\FuelFocus\\ViewModel\\RouteViewModel.cs",
+              "RelativeToolTip": "ViewModel\\RouteViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T08:36:26.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomePage.xaml",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\MAUI_FuelFocus_App\\MAUI FuelFocus\\FuelFocus\\View\\HomePage.xaml",
+              "RelativeDocumentMoniker": "View\\HomePage.xaml",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\MAUI_FuelFocus_App\\MAUI FuelFocus\\FuelFocus\\View\\HomePage.xaml",
+              "RelativeToolTip": "View\\HomePage.xaml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAACkAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-10T08:10:07.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\MAUI_FuelFocus_App\\MAUI FuelFocus\\FuelFocus\\View\\HomePage.xaml.cs",
+              "RelativeDocumentMoniker": "View\\HomePage.xaml.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\MAUI_FuelFocus_App\\MAUI FuelFocus\\FuelFocus\\View\\HomePage.xaml.cs",
+              "RelativeToolTip": "View\\HomePage.xaml.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T08:11:51.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\MAUI_FuelFocus_App\\MAUI FuelFocus\\FuelFocus\\ViewModel\\HomeViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\HomeViewModel.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\MAUI_FuelFocus_App\\MAUI FuelFocus\\FuelFocus\\ViewModel\\HomeViewModel.cs",
+              "RelativeToolTip": "ViewModel\\HomeViewModel.cs",
+              "ViewState": "AQIAAGoAAAAAAAAAAADwv0sAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T06:16:17.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TripsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\MAUI_FuelFocus_App\\MAUI FuelFocus\\FuelFocus\\ViewModel\\TripsViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\TripsViewModel.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\MAUI_FuelFocus_App\\MAUI FuelFocus\\FuelFocus\\ViewModel\\TripsViewModel.cs",
+              "RelativeToolTip": "ViewModel\\TripsViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T06:04:40.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RecentTripsPage.xaml",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\MAUI_FuelFocus_App\\MAUI FuelFocus\\FuelFocus\\View\\RecentTripsPage.xaml",
+              "RelativeDocumentMoniker": "View\\RecentTripsPage.xaml",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\MAUI_FuelFocus_App\\MAUI FuelFocus\\FuelFocus\\View\\RecentTripsPage.xaml",
+              "RelativeToolTip": "View\\RecentTripsPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAABmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-10T06:02:35.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TripDetailPage.xaml",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\MAUI_FuelFocus_App\\MAUI FuelFocus\\FuelFocus\\View\\TripDetailPage.xaml",
+              "RelativeDocumentMoniker": "View\\TripDetailPage.xaml",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\MAUI_FuelFocus_App\\MAUI FuelFocus\\FuelFocus\\View\\TripDetailPage.xaml",
+              "RelativeToolTip": "View\\TripDetailPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAG8AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-10T09:30:47.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RoutePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\MAUI_FuelFocus_App\\MAUI FuelFocus\\FuelFocus\\View\\RoutePage.xaml.cs",
+              "RelativeDocumentMoniker": "View\\RoutePage.xaml.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\MAUI_FuelFocus_App\\MAUI FuelFocus\\FuelFocus\\View\\RoutePage.xaml.cs",
+              "RelativeToolTip": "View\\RoutePage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T08:29:14.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SignupPage.xaml",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\MAUI_FuelFocus_App\\MAUI FuelFocus\\FuelFocus\\View\\SignupPage.xaml",
+              "RelativeDocumentMoniker": "View\\SignupPage.xaml",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\MAUI_FuelFocus_App\\MAUI FuelFocus\\FuelFocus\\View\\SignupPage.xaml",
+              "RelativeToolTip": "View\\SignupPage.xaml",
+              "ViewState": "AQIAACEAAAAAAAAAAIBJwC0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-10T08:55:55.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoginPage.xaml",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\MAUI_FuelFocus_App\\MAUI FuelFocus\\FuelFocus\\View\\LoginPage.xaml",
+              "RelativeDocumentMoniker": "View\\LoginPage.xaml",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\MAUI_FuelFocus_App\\MAUI FuelFocus\\FuelFocus\\View\\LoginPage.xaml",
+              "RelativeToolTip": "View\\LoginPage.xaml",
+              "ViewState": "AQIAAAkAAAAAAAAAAIBJwBUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-10T08:55:51.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RoutePage.xaml",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\MAUI_FuelFocus_App\\MAUI FuelFocus\\FuelFocus\\View\\RoutePage.xaml",
+              "RelativeDocumentMoniker": "View\\RoutePage.xaml",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\MAUI_FuelFocus_App\\MAUI FuelFocus\\FuelFocus\\View\\RoutePage.xaml",
+              "RelativeToolTip": "View\\RoutePage.xaml",
+              "ViewState": "AQIAADYAAAAAAAAAAIBJwEUAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-10T08:28:39.373Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 141,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

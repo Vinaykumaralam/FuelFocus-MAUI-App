@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:converters="clr-namespace:FuelFocus.Converters"
+             x:Class="FuelFocus.View.ForgotPassPage"
+             xmlns:viewmodel ="clr-namespace:FuelFocus.ViewModel"
+             x:DataType="viewmodel:LoginViewModel"
+             Shell.BackgroundColor="#181d3d"
+             Shell.ForegroundColor="White">
+    <Shell.BackButtonBehavior>
+        <BackButtonBehavior Command="{Binding BackCommand}"/>
+    </Shell.BackButtonBehavior>
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <converters:CountryToCodeConverter x:Key="CountryToCodeConverter" />
+        </ResourceDictionary>
+    </ContentPage.Resources>
+    <Grid BackgroundColor="#181d3d">
+        <VerticalStackLayout>
+            <Image Source="login.png" HorizontalOptions="Center" VerticalOptions="Start"
+                   HeightRequest="350" WidthRequest="400" Aspect="AspectFit"/>
+            <StackLayout Margin="0,80,0,0">
+                <Label Text="OTP VERIFICATION" TextColor="White" FontSize="30"
+                       HorizontalOptions="Center" FontAttributes="Bold"/>
+            </StackLayout>
+            <StackLayout Padding="20">
+                <Label Text="We will send you an One Time Password on this mobile number"
+                       TextColor="Gray" HorizontalTextAlignment="Center" FontSize="15"/>
+            </StackLayout>
+            <StackLayout Orientation="Horizontal" HorizontalOptions="Center" Spacing="10">
+                <Picker  x:Name="Code" WidthRequest="100" TextColor="White" TitleColor="White"
+                         BackgroundColor="#212645" FontSize="19" HorizontalTextAlignment="Center"
+                         ItemsSource="{Binding CountryCodes}"
+                         ItemDisplayBinding="{Binding CountryName}"
+                         SelectedItem="{Binding SelectedCountry}">
+                </Picker>
+                <Label x:Name="CodeLabel"  TextColor="White" BackgroundColor="#212645"
+                        FontSize="19" VerticalTextAlignment="Center"
+                        HorizontalTextAlignment="Center" WidthRequest="70"
+                        Text="{Binding SelectedCountry.DisplayName}" />
+                <Entry x:Name="MobileNumber" Placeholder="Enter Your Number" Text="{Binding MobileNo}"
+                       TextColor="White" Keyboard="Numeric" HeightRequest="50" PlaceholderColor="White"
+                       WidthRequest="150" BackgroundColor="#212645" FontSize="19" MaxLength="10"/>
+            </StackLayout>
+            <StackLayout Padding="20" Margin="0,50,0,0">
+                <Button Text="CONTINUE" TextColor="White" BackgroundColor="#f15151"
+                        HeightRequest="50" WidthRequest="300" CornerRadius="30" 
+                        FontAttributes="Bold" FontSize="20" Clicked="Otp_Generation"/>
+            </StackLayout>
+        </VerticalStackLayout>
+    </Grid>
+</ContentPage>

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="FuelFocus.View.ProfilePage"
+              xmlns:local="clr-namespace:FuelFocus.View"
+             xmlns:viewmodels="clr-namespace:FuelFocus.ViewModel"
+             xmlns:converters="clr-namespace:FuelFocus.Converters"
+             Title="ProfilePage"
+             Shell.TitleColor="White"
+             Shell.BackgroundColor="#f15151"
+             BackgroundColor="#F5F5F5"
+             NavigationPage.HasBackButton="True"
+             Shell.BackButtonBehavior="{Binding GoBackCommand}"
+             >
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <converters:ByteArrayToImageConverter x:Key="ByteArrayToImageConverter"/>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+
+    <ContentPage.BindingContext>
+        <viewmodels:VehicleViewModel />
+    </ContentPage.BindingContext>
+
+    <ScrollView>
+        <StackLayout>
+            <CollectionView ItemsSource="{Binding Vehicles}">
+                <CollectionView.ItemTemplate>
+                    <DataTemplate>
+                        <StackLayout>
+                            <AbsoluteLayout HeightRequest="200">
+                                <Image Source="{Binding CarImage, Converter={StaticResource ByteArrayToImageConverter}}" Aspect="AspectFill" HeightRequest="200" AbsoluteLayout.LayoutBounds="0, 0, 1, 1" AbsoluteLayout.LayoutFlags="All" />
+                                <ImageButton Source="editicon.png" Aspect="Fill" WidthRequest="30" HeightRequest="30" AbsoluteLayout.LayoutBounds="0.95, 0.95, 30, 30" AbsoluteLayout.LayoutFlags="PositionProportional" BackgroundColor="White" Command="{Binding Source={RelativeSource AncestorType={x:Type viewmodels:VehicleViewModel}}, Path=ChangeCarImageCommand}">
+                                    <ImageButton.Clip>
+                                        <EllipseGeometry Center="15,15" RadiusX="15" RadiusY="15" />
+                                    </ImageButton.Clip>
+                                </ImageButton>
+                            </AbsoluteLayout>
+
+                            <Image Source="{Binding UserProfileImage, Converter={StaticResource ByteArrayToImageConverter}}" Aspect="Fill" HeightRequest="100" WidthRequest="100"  Margin="0,-60,0,0">
+                                <Image.Clip>
+                                    <EllipseGeometry Center="50,50" RadiusX="50" RadiusY="50" />
+                                </Image.Clip>
+                                <Image.Shadow>
+                                    <Shadow Brush="Black" Opacity="1" Offset="1,1"></Shadow>
+                                </Image.Shadow>
+                            </Image>
+                            <ImageButton Source="editicon.png" Aspect="Fill" WidthRequest="30" HeightRequest="30" AbsoluteLayout.LayoutBounds="0.75, 1, 30, 30" AbsoluteLayout.LayoutFlags="PositionProportional" Margin="0,-30,-70,-60" BackgroundColor="White" Command="{Binding Source={RelativeSource AncestorType={x:Type viewmodels:VehicleViewModel}}, Path=ChangeProfileImageCommand}">
+                                <ImageButton.Clip>
+                                    <EllipseGeometry Center="15,15" RadiusX="15" RadiusY="15" />
+                                </ImageButton.Clip>
+                            </ImageButton>
+
+                            <StackLayout Padding="20" Margin="0,50">
+                                <StackLayout Spacing="10">
+                                    <Label Text="User Name:" FontSize="18" FontAttributes="Bold" TextColor="Black" />
+                                    <Frame CornerRadius="10" BackgroundColor="#FAFAFA" Padding="0">
+                                        <Entry Text="{Binding UserName}" FontSize="16" TextColor="#333333" BackgroundColor="Transparent" Placeholder="Enter User Name" Margin="10,0"/>
+                                    </Frame>
+
+                                    <Label Text="Mobile Number:" FontSize="18" FontAttributes="Bold" TextColor="Black" />
+                                    <Frame CornerRadius="10" BackgroundColor="#FAFAFA" Padding="0">
+                                        <Entry Text="{Binding Mobile}" FontSize="16" TextColor="#333333" BackgroundColor="Transparent" Placeholder="Enter Mobile number" Margin="10,0" IsEnabled="False"/>
+                                    </Frame>
+
+                                    <Label Text="Vehicle Number:" FontSize="18" FontAttributes="Bold" TextColor="Black" />
+                                    <Frame CornerRadius="10" BackgroundColor="#FAFAFA" Padding="0">
+                                        <Entry Text="{Binding VehicleNumber}" FontSize="16" TextColor="#333333" BackgroundColor="Transparent" Placeholder="Enter vehicle number" Margin="10,0" MaxLength="10"/>
+                                    </Frame>
+
+                                    <Label Text="Vehicle Type:" FontSize="18" FontAttributes="Bold" TextColor="Black" />
+                                    <Frame CornerRadius="10" BackgroundColor="#FAFAFA" Padding="0">
+                                        <Entry Text="{Binding VehicleType}" FontSize="16" TextColor="#333333" BackgroundColor="Transparent" Placeholder="Enter vehicle type" Margin="10,0"/>
+                                    </Frame>
+
+                                    <Label Text="Company Name:" FontSize="18" FontAttributes="Bold" TextColor="Black" />
+                                    <Frame CornerRadius="10" BackgroundColor="#FAFAFA" Padding="0">
+                                        <Entry Text="{Binding CompanyName}" FontSize="16" TextColor="#333333" BackgroundColor="Transparent" Placeholder="Enter company name" Margin="10,0"/>
+                                    </Frame>
+
+                                    <Label Text="Model:" FontSize="18" FontAttributes="Bold" TextColor="Black" />
+                                    <Frame CornerRadius="10" BackgroundColor="#FAFAFA" Padding="0">
+                                        <Entry Text="{Binding Model}" FontSize="16" TextColor="#333333" BackgroundColor="Transparent" Placeholder="Enter model" Margin="10,0"/>
+                                    </Frame>
+
+                                    <Label Text="Fuel Type:" FontSize="18" FontAttributes="Bold" TextColor="Black" />
+                                    <Frame CornerRadius="10" BackgroundColor="#FAFAFA" Padding="0">
+                                        <Picker SelectedItem="{Binding FuelType}" FontSize="16" TextColor="#333333" BackgroundColor="Transparent" Margin="10,0">
+                                            <Picker.ItemsSource>
+                                                <x:Array Type="{x:Type x:String}">
+                                                    <x:String>Petrol</x:String>
+                                                    <x:String>Diesel</x:String>
+                                                    <x:String>Electric</x:String>
+                                                    <x:String>Hybrid</x:String>
+                                                </x:Array>
+                                            </Picker.ItemsSource>
+                                        </Picker>
+                                    </Frame>
+
+                                    <Label Text="Fuel Tank Volume:" FontSize="18" FontAttributes="Bold" TextColor="Black" />
+                                    <Frame CornerRadius="10" BackgroundColor="#FAFAFA" Padding="0">
+                                        <Entry x:Name="FuelTankVolume" Text="{Binding FuelTankVolume}" FontSize="16" TextColor="#333333" BackgroundColor="Transparent" Keyboard="Numeric" Placeholder="Enter fuel tank volume" Margin="10,0"/>
+                                    </Frame>
+
+                                    <Label Text="Vehicle Mileage:" FontSize="18" FontAttributes="Bold" TextColor="Black" />
+                                    <Frame CornerRadius="10" BackgroundColor="#FAFAFA" Padding="0">
+                                        <Entry x:Name="VehicleMileage" Text="{Binding VehicleMilage}" FontSize="16" TextColor="#333333" BackgroundColor="Transparent" Keyboard="Numeric" Placeholder="Enter vehicle mileage" Margin="10,0"/>
+                                    </Frame>
+
+                                    <Label Text="Current Fuel Tank Level:" FontSize="18" FontAttributes="Bold" TextColor="Black" />
+                                    <Frame CornerRadius="10" BackgroundColor="#FAFAFA" Padding="0">
+                                        <Entry x:Name="CurrentOdoMeter" Text="{Binding CurrentOdoMeter, StringFormat= '{0:F2}'}" FontSize="16" TextColor="#333333" BackgroundColor="Transparent" Keyboard="Numeric" Placeholder="Enter current odometer" Margin="10,0"/>
+                                    </Frame>
+                                </StackLayout>
+                            </StackLayout>
+                        </StackLayout>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+            </CollectionView>
+            <Button Text="Save" Command="{Binding SaveCommand}" BackgroundColor="#f15151" TextColor="White" FontSize="18" CornerRadius="10" Padding="10, 10" Margin="0,-50,0,10" WidthRequest="100" />
+            <!--<Button Text="Start Trip" Command="{Binding NavigateToRoutePageCommand}" BackgroundColor="#f15151" TextColor="White" FontSize="18" CornerRadius="10" Padding="10, 10" WidthRequest="100" />-->
+            <!--<Button Text="Back" Command="{Binding BackCommand}"  BackgroundColor="#f15151" TextColor="White" FontSize="18" CornerRadius="10" Padding="10, 10" WidthRequest="100" />-->
+        </StackLayout>
+    </ScrollView>
+</ContentPage>

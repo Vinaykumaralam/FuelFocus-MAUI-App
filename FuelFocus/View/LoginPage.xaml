@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:viewmodel ="clr-namespace:FuelFocus.ViewModel"
+             x:DataType="viewmodel:LoginViewModel"
+             x:Class="FuelFocus.View.LoginPage"
+             xmlns:model="clr-namespace:FuelFocus.Model"
+             Shell.NavBarIsVisible="False">
+
+    <ScrollView>
+        <VerticalStackLayout BackgroundColor="#181d3d">
+            <Grid RowDefinitions="Auto,*">
+                <Image Source="login.png" Grid.Row="0" HorizontalOptions="Center" HeightRequest="350" WidthRequest="400" Aspect="AspectFit"/>
+            </Grid>
+            <Frame Grid.Row="1" BorderColor="Transparent" BackgroundColor="#181d3d">
+                <Grid RowDefinitions="Auto,Auto,Auto,Auto,Auto,Auto,Auto">
+                    <Label Grid.Row="0" Grid.ColumnSpan="3" Text="WELCOME" HorizontalOptions="Center" VerticalOptions="Center" TextColor="White" FontSize="40" FontAttributes="Bold" FontFamily="trebuc"/>
+                    <Label Grid.Row="1" Grid.ColumnSpan="3" Text="Login To Continue" TextColor="White" Margin="0,6,0,10" HorizontalOptions="Center" FontAttributes="Bold" FontFamily="trebuc" FontSize="Subtitle"/>
+                    <HorizontalStackLayout Grid.Row="2" Grid.ColumnSpan="3" Grid.Column="1"  HorizontalOptions="Center" Padding="3" VerticalOptions="Center" Margin="0,40,0,0" BackgroundColor="#212645">
+                        <Image Source="smartphone" HeightRequest="30" WidthRequest="30"/>
+                        <Entry Placeholder="Mobile Number" x:Name="MobileNo" Text="{Binding MobileNo}" TextColor="White" Keyboard="Numeric" MaxLength="10" WidthRequest="250" FontSize="15" Margin="10,0,0,0"/>
+                    </HorizontalStackLayout>
+                    <HorizontalStackLayout Grid.Row="3" Grid.ColumnSpan="3" Grid.Column="1"  HorizontalOptions="Center" Padding="3" VerticalOptions="Center" Margin="0,20,0,0" BackgroundColor="#212645">
+                        <Image Source="padlock" HeightRequest="30" WidthRequest="30"/>
+                        <Entry Placeholder="Password" Text="{Binding Password}" x:Name="Password" IsPassword="True" TextColor="White" WidthRequest="220" FontSize="15" Margin="10,0,0,0"/>
+                        <ImageButton Source="visible" x:Name="TogglePasswordVisibilityButton" Clicked="OnTogglePasswordVisibilityButtonClicked" HeightRequest="26" WidthRequest="26"/>
+                    </HorizontalStackLayout>
+                    <HorizontalStackLayout  Grid.Row="4" Grid.Column="0"  HorizontalOptions="CenterAndExpand" VerticalOptions="Center" Margin="0,10,-170,0">
+                        <Label Text="Forgot Password ?" TextDecorations="Underline" TextColor="White">
+                            <Label.GestureRecognizers>
+                                <TapGestureRecognizer Command="{Binding ForgotPasswordTapCommand}"/>
+                            </Label.GestureRecognizers>
+                        </Label>
+                    </HorizontalStackLayout>
+
+                    <Button Text="LOG IN" Margin="0,30,0,0" Grid.Row="5" Grid.ColumnSpan="3" Grid.Column="1" FontAttributes="Bold" WidthRequest="300" FontSize="Medium" BackgroundColor="#f15151" TextColor="White" Command="{Binding LoginCommand}" IsEnabled="{Binding IsNotBusy}"/>
+                    <HorizontalStackLayout Grid.Row="6" HorizontalOptions="Center" Margin="0,10,0,0">
+                        <Label Text="Don't have an Account?" Margin="0,0,0,0" TextColor="White" HorizontalOptions="Center"/>
+                        <Label Text="Sign Up" TextDecorations="Underline" HorizontalTextAlignment="End" Margin="10,0,0,0" HorizontalOptions="Center" FontSize="15" FontAttributes="Bold" TextColor="White">
+                            <Label.GestureRecognizers>
+                                <TapGestureRecognizer Command="{Binding SignupTapCommand}"/>
+                            </Label.GestureRecognizers >
+                        </Label>
+                    </HorizontalStackLayout>
+                </Grid>
+            </Frame>
+        </VerticalStackLayout>
+
+    </ScrollView>
+</ContentPage>

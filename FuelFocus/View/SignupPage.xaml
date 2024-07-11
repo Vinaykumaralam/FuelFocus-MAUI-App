@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="FuelFocus.View.SignupPage"
+             xmlns:model="clr-namespace:FuelFocus.Model"
+             xmlns:viewmodel="clr-namespace:FuelFocus.ViewModel"
+             x:DataType="viewmodel:SignUpViewModel"
+             Shell.NavBarIsVisible="False">
+
+    <ScrollView>
+        <VerticalStackLayout BackgroundColor="#181d3d">
+            <Grid RowDefinitions="Auto,*">
+                <Image Grid.Row="0" Aspect="AspectFit" HeightRequest="450"  Margin="10,-35,10,-50" Source="login.png"/>
+            </Grid>
+
+            <Frame Grid.Row="1" CornerRadius="31" TranslationY="-23" Margin="20,0,20,0" BorderColor="Transparent" BackgroundColor="#181d3d" HasShadow="True" VerticalOptions="FillAndExpand">
+
+                <Grid RowDefinitions="Auto,Auto,Auto,Auto,Auto,Auto,Auto,Auto,Auto,Auto" Padding="0" RowSpacing="5">
+                    <StackLayout Margin="0,0,0,0">
+                        <Label Grid.Row="0" FontFamily="Poet" TextColor="White" Text="JOIN US" FontSize="29" FontAttributes="Bold" HorizontalTextAlignment="Center"/>
+
+                        <Label Grid.Row="1" FontFamily="Poet" Text="Enjoy on your ride with confidence, We take care of your fuel.." Margin="0,20,0,18"  TextColor="White" HorizontalTextAlignment="Center"/>
+                    </StackLayout>
+
+                   
+                    <!--<Label Grid.Row="2" Text="Username" FontSize="20" TextColor="White"/>-->
+                    <!--<Border Grid.Row="3" StrokeShape="RoundRectangle 20,20,20,20"></Border>-->
+                    <StackLayout Margin="0,80,0,0">
+                        <StackLayout Orientation="Horizontal" BackgroundColor="#212645" Margin="0,30,0,0">
+                            <Image Source="username.png" HorizontalOptions="Center" VerticalOptions="End" Aspect="AspectFit"
+                                    HeightRequest="23" WidthRequest="26" Margin="0,0,0,10"/>
+                            <Entry x:Name="UserName" Grid.Row="3" BackgroundColor="#212645" FontSize="18" TextColor="White" 
+                                    HeightRequest="50" Placeholder="Username" WidthRequest="250" Text="{Binding UserName}"
+                                   Margin="5,0,0,0"/>
+                        </StackLayout>
+
+                        <!--<Label Grid.Row="4" Text="Mobile Number" FontSize="20" TextColor="White"/>-->
+                        <!--<Border Grid.Row="5" StrokeShape="rectangle 20,20,20,20" >
+                            </Border>-->
+                        <StackLayout Orientation="Horizontal" BackgroundColor="#212645" Margin="0,30,0,0">
+                            <Image Source="smartphone.png" HorizontalOptions="Center" VerticalOptions="End" Aspect="AspectFit"
+                                     HeightRequest="23" WidthRequest="30" Margin="0,0,0,10"/>
+                            <Entry x:Name="MobileNo"  Grid.Row="5" BackgroundColor="#212645" FontSize="18" Keyboard="Numeric" 
+                                     HeightRequest="50" TextColor="White" MaxLength="10" Placeholder="Mobile Number" Text="{Binding MobileNo}"
+                                   WidthRequest="250"/>
+                        </StackLayout>
+
+                        <!--<Label Grid.Row="6" Text="Password" FontSize="20" TextColor="White"/>-->
+                        <!--<Border Grid.Row="7" StrokeShape="RoundRectangle 20,20,20,20"></Border>-->
+                        <StackLayout Orientation="Horizontal" BackgroundColor="#212645" Margin="0,30,0,0">
+                            <Image Source="padlock.png" HorizontalOptions="Center" VerticalOptions="End" Aspect="AspectFit"
+                                       HeightRequest="23" WidthRequest="30" Margin="0,0,0,10"/>
+                            <Entry x:Name="Password" Grid.Row="7" BackgroundColor="#212645" FontSize="18" TextColor="White" IsPassword="True" 
+                                        HeightRequest="50" Placeholder="Password" Text="{Binding Password}" WidthRequest="220"/>
+                            <ImageButton x:Name="TogglePasswordVisibilityButton"
+                                        HeightRequest="20" WidthRequest="30"
+                                        Source="visible.png"
+                                        BackgroundColor="Transparent"
+                                        Clicked="OnTogglePasswordVisibilityButtonClicked"/>
+                        </StackLayout>
+                    </StackLayout>
+                    
+
+                    <Button Grid.Row="8" Text="Sign Up" FontFamily="Poet" FontAttributes="Bold" TextColor="White" Margin="20,10,20,10" HeightRequest="50" 
+                            CornerRadius="10" BackgroundColor="#f15151" Command="{Binding SignUpCommand}"/>
+                    <Label Grid.Row="9" FontAttributes="Bold" Margin="0,0,0,0" HorizontalOptions="Center">
+                        <Label.FormattedText>
+                            <FormattedString>
+                                <Span Text="Already a member? " TextColor="White"/>
+                                <Span Text="Sign in" TextColor="White" FontAttributes="Bold" TextDecorations="Underline"
+                                      FontSize="15">
+                                    <Span.GestureRecognizers>
+                                        <TapGestureRecognizer Tapped="TapGestureRecognizer_Tapped"/>
+                                    </Span.GestureRecognizers>
+                                </Span>
+                            </FormattedString>
+                        </Label.FormattedText>
+                    </Label>
+                </Grid>
+            </Frame>
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>
